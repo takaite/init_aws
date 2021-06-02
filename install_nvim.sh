@@ -1,9 +1,9 @@
 #!/bin/bash
 
 
-add-apt-repository ppa:neovim-ppa/stable
+add-apt-repository -y ppa:neovim-ppa/stable
 apt update
-apt install neovim
+apt install -y neovim
 
 mkdir ~/.config/nvim
 
