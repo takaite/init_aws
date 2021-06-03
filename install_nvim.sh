@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-sudo dd-apt-repository -y ppa:neovim-ppa/stable
+sudo add-apt-repository -y ppa:neovim-ppa/stable
 sudo apt update
 sudo apt install -y neovim
 
