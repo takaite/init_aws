@@ -2,4 +2,4 @@
 
 git clone https://github.com/lukechilds/zsh-nvm ~/.oh-my-zsh/custom/plugins/zsh-nvm
 
-echo "Please, restart your terminhal"
+source ~/.oh-my-zsh/oh_my_zsh.sh
